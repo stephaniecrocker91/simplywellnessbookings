@@ -1,0 +1,16 @@
+.App {
+    font-family: 'Cormorant Infant', serif;
+    letter-spacing: 1px;
+    font-weight: 300;
+    padding: 10px;
+    text-align: center;
+    font-size: 17px;
+}
+
+.Main {
+    padding-top: 39px;
+}
+/* 
+div {
+    background-color: red;
+} */
