@@ -1,0 +1,18 @@
+/* .NavBar{
+    background-color: red;
+} */
+
+.NavLink {
+    padding: 10px;
+    /* font-family: 'Cormorant Infant', serif;
+    letter-spacing: 1px;
+    font-weight: 300;
+    padding: 10px;
+    text-align: center;
+    font-size: 17px; */
+    color: #2b2a32;
+}
+
+.Active i {
+    color: red;
+}
